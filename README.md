@@ -2,7 +2,7 @@
 
 # CRDFND
 
-[CRDFND is a crowdfunding Dapp which is live on Polygon Mainnet!]()
+CRDFND is a crowdfunding Dapp which is live on Polygon Mainnet!
 
 ## Project Description!
 
