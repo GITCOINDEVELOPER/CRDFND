@@ -56,7 +56,7 @@ module.exports = {
     matic: {
       provider: function() {
         return new HDWalletProvider(
-          '', // Array of account private keys
+          'YOUR PRIVATE KEY', // Array of account private keys
           `https://matic-mainnet.chainstacklabs.com`// Url to an polygon mainnet node
         )
       },
