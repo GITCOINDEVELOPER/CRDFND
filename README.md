@@ -6,7 +6,7 @@ CRDFND is a crowdfunding Dapp which is live on Polygon Mainnet!
 
 ## Project Description!
 
-This is crowdfunding application where the backend is an polygon smart contract, and the frontend is an application hosted vercel. This creates a completely decentralized crowdfunding app with a verifiable and immutably published project plan.
+This is crowdfunding application where the backend is an polygon smart contract, and the frontend is an application script. This creates a completely decentralized crowdfunding app with a verifiable and immutably published project plan.
 
 Current crowdfunding platforms have a problem. Creators ask for funds to complete a project, but once funded, we don’t always see the expected results. This new crowdfunding app should work to prevent this.
 
