@@ -25,10 +25,8 @@ The creator asking for funds sets a deadline for raising 100% of the funds. The 
 
 1) clone this repository
 2) yarn
-3) npm install sha3
-4) npm install
-5) add your private key in truffle-config.js (LINE NO 59)
-6) RUN: truffle migrate --reset --network matic
-7) npm run serve
+3) add your private key in truffle-config.js (LINE NO 59)
+4) RUN: truffle migrate --reset --network matic
+5) npm run serve
 
 app starts at: http://localhost:8080
