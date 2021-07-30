@@ -1,7 +1,5 @@
 # Test project transaction hash: [Click here](https://polygonscan.com/tx/0xb3cb5cc43aeec7f8038b37c581e0a0d016186145d9eabca758252b096b2c8df1)
 
-# CRDFND
-
 CRDFND is a crowdfunding Dapp which is live on Polygon Mainnet!
 
 ## Project Description!
